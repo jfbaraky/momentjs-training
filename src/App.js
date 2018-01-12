@@ -15,7 +15,7 @@ class App extends Component {
             <div className="App">
                 <header className="App-header">
                     <img src={clock} className="App-logo" alt="logo" />
-                    <h1 className="App-title">Welcome to <strike style={{color: '#CCC'}}>React</strike> Moment JS</h1>
+                    <h1 className="App-title">Welcome to <s style={{color: '#CCC'}}>React</s> Moment JS training</h1>
                 </header>
                 <p className="App-intro">
                     To get started, edit <code>src/App.js</code> and save to reload.
